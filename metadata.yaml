@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '32024'
     url: http://www.gutenberg.org/2009/agents/32024
     wikipedia: https://it.wikipedia.org/wiki/Defendente_Sacchi
+covers:
+- cover_type: archival
+  image_path: 60088-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60088#Le-streghe-dono-del-folletto-alle-signore
 gutenberg_bookshelf: IT Folklore
 gutenberg_issued: '2019-08-11'
 gutenberg_type: Text
