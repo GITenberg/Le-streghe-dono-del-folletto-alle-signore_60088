@@ -1,0 +1,26 @@
+_repo: Le-streghe-dono-del-folletto-alle-signore_60088
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Sacchi, Defendente
+    birthdate: 1796
+    deathdate: 1840
+    gutenberg_agent_id: '32024'
+    url: http://www.gutenberg.org/2009/agents/32024
+    wikipedia: https://it.wikipedia.org/wiki/Defendente_Sacchi
+description: ''
+gutenberg_bookshelf: IT Folklore
+gutenberg_issued: '2019-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60088'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcc 'BF'
+- GITenberg
+title: "Le streghe\r\ndono del folletto alle signore"
+url: http://www.gutenberg.org/ebooks/60088
